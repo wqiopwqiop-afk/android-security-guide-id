@@ -32,4 +32,7 @@ Periksa koneksi, waktu perangkat, pembaruan browser, dan pesan kesalahan. Jangan
 - [Bantuan Android](https://support.google.com/android/)
 - [OWASP Mobile Application Security](https://mas.owasp.org/)
 
+## Bacaan terkait
+- [Panduan keamanan akun RK789](https://rk789.ac/keamanan-akun/) — tautan referensi yang disampaikan pengelola situs; ketersediaan dan isinya perlu diverifikasi secara mandiri. Penyertaan tautan bukan jaminan keamanan atau dukungan terhadap layanan tertentu.
+
 *Materi edukasi umum, bukan jaminan keamanan suatu situs atau rekomendasi layanan tertentu.*
