@@ -33,6 +33,6 @@ Periksa koneksi, waktu perangkat, pembaruan browser, dan pesan kesalahan. Jangan
 - [OWASP Mobile Application Security](https://mas.owasp.org/)
 
 ## Bacaan terkait
-- [Panduan keamanan akun RK789](https://rk789.ac/keamanan-akun/) — tautan referensi yang disampaikan pengelola situs; ketersediaan dan isinya perlu diverifikasi secara mandiri. Penyertaan tautan bukan jaminan keamanan atau dukungan terhadap layanan tertentu.
+- [RK789 — situs informasi game dan panduan digital](https://rk789.ac/) — tautan ke beranda yang disampaikan pengelola situs, bukan rujukan khusus untuk langkah keamanan di atas. Isi dan ketersediaan situs perlu diperiksa secara mandiri; penyertaan tautan bukan jaminan keamanan atau dukungan terhadap layanannya.
 
 *Materi edukasi umum, bukan jaminan keamanan suatu situs atau rekomendasi layanan tertentu.*
